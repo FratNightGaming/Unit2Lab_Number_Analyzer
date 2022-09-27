@@ -7,10 +7,6 @@ namespace Number_Analyzer
         public static string userName;
         public static int userNumber;
 
-        public static int minRange = 0;
-        public static int maxRange = 100;
-
-
         static void Main(string[] args)
         {
             NumberAnalyzer();
@@ -31,7 +27,7 @@ namespace Number_Analyzer
                     value = Console.ReadLine();
                 }
 
-                if (!WithinRange(userNumber))
+                if (!WithinRange(userNumber, 0, 100))
                 {
                     Console.WriteLine("Please enter a number between 1-100. Try again.");
                     value = Console.ReadLine();
@@ -62,9 +58,9 @@ namespace Number_Analyzer
              */
         }
 
-        public static bool WithinRange(int x)
+        public static bool WithinRange(int x, int min, int max)
         {
-            return x > minRange && minRange < maxRange;
+            return x >= min && x <= max;
         }
 
         public static void Analyze()
@@ -73,19 +69,19 @@ namespace Number_Analyzer
             {
                 if (userNumber >= 2 && userNumber <= 24)
                 {
-                    Console.WriteLine("Even and less than 25.");
+                    Console.WriteLine($"{userName}, {userNumber} is : Even and less than 25.");
                     TryAgain();
                 }
 
                 else if (userNumber >= 26 && userNumber <= 60)
                 {
-                    Console.WriteLine("Even and between 26 and 60.");
+                    Console.WriteLine($"{userName}, {userNumber} is : Even and between 26 and 60.");
                     TryAgain();
                 }
 
                 else
                 {
-                    Console.WriteLine("Even and greater than 60.");
+                    Console.WriteLine($"{userName}, {userNumber} is : Even and greater than 60.");
                     TryAgain();
                 }
             }
@@ -94,13 +90,13 @@ namespace Number_Analyzer
             {
                 if (userNumber <= 60)
                 {
-                    Console.WriteLine("Odd and less than 60.");
+                    Console.WriteLine($"{userName}, {userNumber} is : Odd and less than 60.");
                     TryAgain();
                 }
 
                 else
                 {
-                    Console.WriteLine("Odd and greater than 60.");
+                    Console.WriteLine($"{userName}, {userNumber} is : Odd and greater than 60.");
                     TryAgain();
                 }
             }
@@ -122,7 +118,7 @@ namespace Number_Analyzer
                     break;
 
                 default:
-                    Console.WriteLine("Exiting Program. Goodbye!");
+                    Console.WriteLine($"Exiting Program. Goodbye {userName}!");
                     break;
             }
         }
