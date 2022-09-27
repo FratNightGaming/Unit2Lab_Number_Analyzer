@@ -1,0 +1,13 @@
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/bin/Debug/netcoreapp3.1/Number_Analyzer.deps.json
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/bin/Debug/netcoreapp3.1/Number_Analyzer.runtimeconfig.json
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/bin/Debug/netcoreapp3.1/Number_Analyzer.runtimeconfig.dev.json
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/bin/Debug/netcoreapp3.1/Number_Analyzer.dll
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/bin/Debug/netcoreapp3.1/Number_Analyzer.pdb
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/obj/Debug/netcoreapp3.1/Number_Analyzer.csproj.AssemblyReference.cache
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/obj/Debug/netcoreapp3.1/Number_Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/obj/Debug/netcoreapp3.1/Number_Analyzer.AssemblyInfoInputs.cache
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/obj/Debug/netcoreapp3.1/Number_Analyzer.AssemblyInfo.cs
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/obj/Debug/netcoreapp3.1/Number_Analyzer.csproj.CoreCompileInputs.cache
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/obj/Debug/netcoreapp3.1/Number_Analyzer.dll
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/obj/Debug/netcoreapp3.1/Number_Analyzer.pdb
+/Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/obj/Debug/netcoreapp3.1/Number_Analyzer.genruntimeconfig.cache
