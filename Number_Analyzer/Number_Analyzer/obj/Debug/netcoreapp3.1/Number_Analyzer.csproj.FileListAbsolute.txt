@@ -11,3 +11,17 @@
 /Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/obj/Debug/netcoreapp3.1/Number_Analyzer.dll
 /Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/obj/Debug/netcoreapp3.1/Number_Analyzer.pdb
 /Users/Jake/Documents/Grand Circus/Labs/Number_Analyzer/Number_Analyzer/obj/Debug/netcoreapp3.1/Number_Analyzer.genruntimeconfig.cache
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\bin\Debug\netcoreapp3.1\Number_Analyzer.exe
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\bin\Debug\netcoreapp3.1\Number_Analyzer.deps.json
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\bin\Debug\netcoreapp3.1\Number_Analyzer.runtimeconfig.json
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\bin\Debug\netcoreapp3.1\Number_Analyzer.runtimeconfig.dev.json
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\bin\Debug\netcoreapp3.1\Number_Analyzer.dll
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\bin\Debug\netcoreapp3.1\Number_Analyzer.pdb
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\obj\Debug\netcoreapp3.1\Number_Analyzer.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\obj\Debug\netcoreapp3.1\Number_Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\obj\Debug\netcoreapp3.1\Number_Analyzer.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\obj\Debug\netcoreapp3.1\Number_Analyzer.AssemblyInfo.cs
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\obj\Debug\netcoreapp3.1\Number_Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\obj\Debug\netcoreapp3.1\Number_Analyzer.dll
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\obj\Debug\netcoreapp3.1\Number_Analyzer.pdb
+C:\Users\rober\Desktop\Clone\Unit2Lab_Number_Analyzer\Number_Analyzer\Number_Analyzer\obj\Debug\netcoreapp3.1\Number_Analyzer.genruntimeconfig.cache
