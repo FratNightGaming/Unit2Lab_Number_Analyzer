@@ -4,6 +4,7 @@ namespace Number_Analyzer
 {
     class Program
     {
+        //Comments: Looks good! Can't break it!
         public static string userName;
         public static int userNumber;
 
